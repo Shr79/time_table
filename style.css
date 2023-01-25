@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+table{
+    background: linear-gradient(180deg,orange,ghostwhite,green);
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+}
